@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "eaf735d5397112c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "58be6ad862821673",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "026be46ae2aaa765",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf563deb3c54c66e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55ab4045b917a26e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4ca27ddd32c7bba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9743563f02d75f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e506c2bf95a48d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c305560840c11fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b7897aaf39e252f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b56e7cddf468eb5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bfbc5d77b422028",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc8715ef57c58808",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "58be6ad862821673",
+  "lastOpenFiles": [
+    "Helpful Links.md",
+    "Markdown Cheat Sheet.md",
+    "Templates/Tool Template.md",
+    "Templates/Technique Template.md",
+    "Templates/Misc. Template.md",
+    "Templates/Resource List Template.md"
+  ]
+}
